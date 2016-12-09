@@ -1,10 +1,10 @@
-#Android 开发规范
+#Android 开发规范 
 
-* [结构规范](#arch)
-* [开发流程](#dev_flow)
-* [命名规范](#name_rule)
+- [结构规范](#arch)
+- [开发流程](#dev_flow)
+- [命名规范](#name_rule)
+
 -----------
-
 <b id="arch" ></b>
 ##结构规范
 
